@@ -1,0 +1,10 @@
+D:\PlaywrightAugustBatch\data\UserData.xlsx
+[
+  { UserName: 'sagesyntaxacademy', Password: 'BuildingExcellence@111' },
+  { UserName: 'sagesyntaxacademy', Password: 'BuildingExcellence@111' },
+  { UserName: 'sagesyntaxacademy', Password: 'BuildingExcellence@111' },
+  { UserName: 'sagesyntaxacademy', Password: 'BuildingExcellence@111' }
+]
+[28/9/2026, 1:46:55 am] [INFO] Application opened
+[28/9/2026, 1:47:00 am] [INFO] UserName entered
+[28/9/2026, 1:47:05 am] [INFO] Password entered
